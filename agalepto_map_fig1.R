@@ -1,5 +1,7 @@
 ## Author: J. Gijsbers Alejandre
 ## Date: June 2020
+## Copyright: Copyright (C) 2020 J. Gijsbers Alejandre
+## License: GPL
 
 ## Plot maps of different geographic regions, depending on the latitude/longitud you provide
 

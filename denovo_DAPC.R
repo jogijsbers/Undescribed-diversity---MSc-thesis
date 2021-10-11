@@ -1,5 +1,8 @@
 # Run denovo DAPC for replicate VCF files and output to CSV
 # Johanna Gijsbers, Feb 2021
+# Copyright: Copyright (C) 2021 J. Gijsbers Alejandre
+# License: GPL
+
 
 ## Dependencies ==============================================================
 library("adegenet")

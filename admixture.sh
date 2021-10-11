@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Author: Johanna Gijsbers Alejandre
 # Date created: April, 2021
+# Copyright: Copyright (C) 2021 J. Gijsbers Alejandre
+# License: GPL
 
 ### Runs admixture for RADseq data
 

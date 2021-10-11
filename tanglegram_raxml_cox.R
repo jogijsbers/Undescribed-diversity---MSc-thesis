@@ -1,5 +1,8 @@
 # Author: Johanna Gijsbers Alejandre
 # Date created: March, 2020
+# Copyright: Copyright (C) 2020 J. Gijsbers Alejandre
+# License: GPL
+
 
 ### Create tangle tree of RAD vs COX1 marker
 
